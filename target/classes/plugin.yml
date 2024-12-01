@@ -1,8 +1,0 @@
-name: Calculator
-version: '1.0-SNAPSHOT'
-main: com.coderinlinux.Main
-api-version: '1.21'
-commands:
-  calc:
-    usage: /calc <number1> <operation> <number2>
-    description: Simple plugin of calculator for you server
